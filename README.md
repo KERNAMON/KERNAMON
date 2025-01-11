@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm KERNAMON</h1>
-<h3 align="center">WorkStation & CMS</h3>
+<h3 align="center">BLOCKCHAIN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernamon&label=Profile%20views&color=0e75b6&style=flat" alt="kernamon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kernamon" target="blank"><img src="https://img.shields.io/twitter/follow/kernamon?logo=twitter&style=for-the-badge" alt="kernamon" /></a> </p>
 
-- 🔭 I’m currently working on [KERNAMON WorkStation](https://github.com/KERNAMON/WorkStation)
+- 🔭 I’m currently working on [BLOCKCHAIN](https://github.com/KERNAMON/BLOCKCHAIN)
 
 - 🌱 I’m currently learning **CSS3**
 
 - 👯 I’m looking to collaborate on **MVC and OOP PHP**
 
-- 🤝 I’m looking for help with **KERNAMON CMS**
+- 🤝 I’m looking for help with **KERNAMON BLOCKCHAIN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KERNAMON](https://github.com/KERNAMON)
 
 - 📝 I regularly write articles on [https://kernamon.medium.com](https://kernamon.medium.com)
 
-- 💬 Ask me about **Building a CMS from scratch... Oh boy!**
+- 💬 Ask me about **Building a blockchain from scratch... Oh boy!**
 
 - 📄 Know about the latest news! [https://x.com/KERNAMON](https://x.com/KERNAMON)
 
