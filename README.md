@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **Building a blockchain from scratch... Oh boy!**
 
-- 📄 Know about the latest news! [https://x.com/KERNAMON](https://x.com/KERNAMON)
-
 - ⚡ Fun fact? **Bash rocks!!**
 
 <h3 align="left">Connect with me:</h3>
