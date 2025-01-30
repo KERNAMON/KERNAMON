@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kernamon&label=Profile%20views&color=0e75b6&style=flat" alt="kernamon" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kernamon" target="blank"><img src="https://img.shields.io/twitter/follow/kernamon?logo=twitter&style=for-the-badge" alt="kernamon" /></a> </p>
-
 - 🔭 I’m currently working on [BLOCKCHAIN](https://github.com/KERNAMON/BLOCKCHAIN)
 
-- 🌱 I’m currently learning **CSS3**
+- 🌱 I’m currently learning **Rust**
 
-- 👯 I’m looking to collaborate on **MVC and OOP PHP**
+- 👯 I’m looking to collaborate on **Blockchain Technology**
 
 - 🤝 I’m looking for help with **KERNAMON BLOCKCHAIN**
 
@@ -26,7 +24,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kernamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kernamon" height="30" width="40" /></a>
-<a href="https://twitter.com/kernamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kernamon" height="30" width="40" /></a>
 <a href="https://kaggle.com/kernamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kernamon" height="30" width="40" /></a>
 <a href="https://medium.com/@kernamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kernamon" height="30" width="40" /></a>
 </p>
